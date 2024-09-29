@@ -29,5 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepchiramdasu&show_icons=true&locale=en" alt="sandeepchiramdasu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepchiramdasu&" alt="sandeepchiramdasu" /></p>
-
-![full_stack_banner](https://github.com/user-attachments/assets/cb2272e5-d10d-429d-a7c8-36361d0ce98a)
