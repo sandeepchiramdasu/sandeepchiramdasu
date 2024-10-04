@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sandeep-kumar-a54205226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandeep-kumar-a54205226/" height="30" width="40" /></a>
 <a href="https://instagram.com/sandeepchiramdasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandeepchiramdasu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@sandeepchiramda1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sandeepchiramda1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/@sandeepkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@sandeepkumarchiramdasu" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/@sandeepkumarchiramdasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@sandeepkumarchiramdasu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
