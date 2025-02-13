@@ -1,18 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
-<h3 align="center">A passionate full stack developer, tutor from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 
-- 🔭 I’m currently working on **Backend Project**
-
-- 🌱 I’m currently learning **Angular,Microservices.**
-
-- 👯 I’m looking to collaborate on **E - Commerce Website**
-
-- 💬 Ask me about **java, react**
+- 🔭 I’m currently working on **Full Stack Project**
 
 - 📫 How to reach me **chiramdasusandeep@gmail.com**
-
-- ⚡ Fun fact **Need Thought Action**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
